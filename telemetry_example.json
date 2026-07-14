@@ -1,0 +1,12 @@
+{
+  "protocol": "Sovereignty-2026",
+  "version": "1.0.0",
+  "timestamp": "2026-07-14T13:00:00Z",
+  "data_point": {
+    "signal_id": "SOV-2026-001",
+    "behavioral_metric": "integrity_score",
+    "value": 0.98,
+    "governance_status": "compliant",
+    "notes": "Validated against NeoMundi operational benchmarks"
+  }
+}
